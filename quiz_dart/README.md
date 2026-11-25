@@ -1,7 +1,7 @@
 # Quiz Stray Kids
 
-**Integrantes:** Nome 1 e Nome 2
-**Trilha:** (nome da trilha de vocês)
+**Aluna:Hadassa Oliveira Moraes
+**Trilha:** (desenvolvimento mobile)
 
 ## Sobre o quiz
 Quiz de terminal feito em Dart sobre o grupo Stray Kids. O jogador
